@@ -2,8 +2,8 @@
 layout: post
 title: Completion of ALX Data Science Program
 subtitle: Learnt basic skills on Python, SQL, Power BI and Machine Learning
-categories: markdown
-tags: [Python,SQL,Power BI,Machine Learning]
+categories: Certification
+tags: [Python,SQL,Power BI, Machine Learning, Certificate]
 ---
 
 ## Reference
